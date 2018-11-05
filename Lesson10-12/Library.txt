@@ -1,0 +1,6 @@
+"Angels and Devils", 2011, "Dan Braun", 15.85
+"Tihiy Don", 1987, "Mihail Sholohov", 10.14
+"Kapitanskaya Dochka", 1991, "Alexander Pushkin", 8.49
+"The Lord of the Rings", 2005, "John Tolkien", 12.35
+"Zolotaya rybka", 1964, "Alexander Pushkin", 5.16
+"Poems", 1995, "Alexander Pushkin", 7.68
